@@ -59,8 +59,8 @@ global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285607835238'
-global.nomorown = '6285607835238' // nomor owner
+global.nomorbot = '6281330900857'
+global.nomorown = '6281252254886' // nomor owner
 global.namebot = 'Lala BOT'
 global.nameown = '乙モれ. ㉺'
 
